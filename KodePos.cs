@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-class KodePos
+﻿class KodePos
 {
     private Dictionary<string, string> kodePosTable = new Dictionary<string, string>()
     {
